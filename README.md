@@ -19,7 +19,7 @@ Atualmente venho me especializando no Direito Digital, com especial foco na Prot
 Veja os meus projetos:
 
 * [Analisando os Dados do Airbnb do Rio de Janeiro](https://github.com/hiidenpelto/data_science/blob/master/Analisando_os_dados_do_Airbnb_Rio_de_Janeiro.ipynb)
-* [Analisando a Violência no Rio de Janeiro](https://github.com/hiidenpelto/data_science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+* [Analisando a Violência no Rio de Janeiro](https://github.com/hiidenpelto/data_science/blob/master/Analisando_Violencia_Rio_de_Janeiro.ipynb)
 
 ---
 
