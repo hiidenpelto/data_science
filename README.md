@@ -4,7 +4,7 @@
 </p>
 
 # Edson Ramos
-<sub>*Digital and Data Protection Lawyer</sub>
+<sub>*Lawyer and Data Scientist</sub>
 
 Advogado com atuação no jurídico interno de uma entidade filantrópica de grande porte no ramo hospitalar, mantenedora do Hospital Martagão Gesteira e gestora do Hospital Estadual da Criança. Minhas atividades são voltadas ao Direito do Trabalho, Direito Processual do Trabalho, Direito Civil e Direito Contratual.
 
